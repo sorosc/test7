@@ -1,4 +1,5 @@
 % test change
+% test change 2
 %% Problem 2 Estimating GARCH Models & Computing Volatility Forecasts
 %% a
 % compute Engle's LM test for ARCH effects for 5 & 10 lags
